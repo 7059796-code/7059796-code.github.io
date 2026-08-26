@@ -121,7 +121,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #fff;
+  background: #FFD1DC;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
@@ -132,7 +132,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #000;
+  color: #FC0FC0;
 }
 
 #nav-ul {
@@ -144,7 +144,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color: #666;
+  color:#FC0FC0;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -156,6 +156,6 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #000;
+  background:#FC0FC0:
   color: #fff;
 }
