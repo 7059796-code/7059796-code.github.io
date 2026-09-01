@@ -40,7 +40,7 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #ff0195;
+  color: #ff189fce;
 }
 
 .content > p {
@@ -62,7 +62,7 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #d62377af;
+  color: #d6237741;
 }
 
 #interests ul {
@@ -75,7 +75,7 @@ h2 {
 }
 
 #interests li {
-  color: #d62377af;
+  color: #d62377b6;
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
@@ -121,7 +121,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #FFD1DC;
+  background: #d867827c;
   border: 1px solid #e0e0e0;
   border-radius: 12px;
 }
@@ -144,7 +144,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color:#FC0FC0;
+  color:#fc0f99;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
@@ -156,14 +156,17 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background:#FC0FC0:
+  background:#f006a27e;
   color: #fff;
 }
 
 
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgba(243, 47, 122, 0.377);
+}
+.content h3 {
+  color:#fff8fd
 }
 
 #portfolio {
